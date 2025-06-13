@@ -18,7 +18,7 @@ body {
 
 .menus {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
     padding: 20px 55px 20px 0px;
     gap:20px;
@@ -214,7 +214,7 @@ h4 {
 .contact-photo {
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: center;
     padding-left: 100px;
 }
@@ -248,7 +248,7 @@ h4 {
    
     .menus {
         display: flex;
-        justify-content: end;
+        justify-content: flex-end;
         align-items: center;
         gap:15px;
         font-size: 18px;
